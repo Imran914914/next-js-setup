@@ -61,7 +61,7 @@ export default function Home() {
             aria-hidden
             src="https://nextjs.org/icons/file.svg"
             alt="File icon"
-            width={50}
+            width={16}
             height={16}
           />
           Learn
